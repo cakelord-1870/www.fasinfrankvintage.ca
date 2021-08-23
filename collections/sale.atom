@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fasinfrankvintage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fasinfrankvintage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fasinfrankvintage.ca/collections/sale.atom"/>
+  <title>F As In Frank Vintage</title>
+  <updated>2021-07-19T22:50:35-07:00</updated>
+  <author>
+    <name>F As In Frank Vintage</name>
+  </author>
+  <entry>
+    <id>https://www.fasinfrankvintage.ca/products/7087451635881</id>
+    <published>2021-07-19T22:50:35-07:00</published>
+    <updated>2021-07-19T22:50:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fasinfrankvintage.ca/products/vintage-deadstock-uncle-skull-and-bones-wear-t-shirt-sz-xl"/>
+    <title>Vintage Deadstock Uncle Skull and Bones Wear T Shirt Sz XL</title>
+    <s:type>vintage t-shirts</s:type>
+    <s:vendor>F As In Frank Vintage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0750/7145/products/IMG_5486_e3da1389-674b-4957-930d-ef0d8476398b.jpg?v=1626370495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>F As In Frank Vintage<br>
+        <strong>Type: </strong>vintage t-shirts<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size: XL</p>
+<p>Pit to Pit: 23"</p>
+<p>Length: 30.5"</p>
+<p>New With tags<br></p>
+<p><span>Please contact </span><span></span><span></span><a href="https://www.instagram.com/fasinfrank/" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">@fasinfrank</a><span> </span><span>on Instagram with questions. </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other</s:tag>
+    <s:tag>Tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://www.fasinfrankvintage.ca/products/7087451635881</id>
+      <title>XL</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>4051</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fasinfrankvintage.ca/products/7086230536361</id>
+    <published>2021-07-19T12:39:50-07:00</published>
+    <updated>2021-07-19T12:39:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fasinfrankvintage.ca/products/vintage-toronto-raptors-1998-t-shirt"/>
+    <title>Vintage Toronto Raptors 1998 T Shirt</title>
+    <s:type>vintage t-shirts</s:type>
+    <s:vendor>F As In Frank Vintage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0750/7145/products/IMG_5403_0e1eb0fa-9f2e-417e-b118-544e334020fe.jpg?v=1626323424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>F As In Frank Vintage<br>
+        <strong>Type: </strong>vintage t-shirts<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size: XL</p>
+<p>Pit to Pit: 26"</p>
+<p>Length: 31"</p>
+<p>Has some pin holes and a bleach stains </p>
+<p><span>Please contact </span><span></span><span></span><a href="https://www.instagram.com/fasinfrank/" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">@fasinfrank</a><span> </span><span>on Instagram with questions. </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sports</s:tag>
+    <s:tag>Tee</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://www.fasinfrankvintage.ca/products/7086230536361</id>
+      <title>L</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4031</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>
